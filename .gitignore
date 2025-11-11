@@ -2,3 +2,7 @@
 server/mods
 
 server/.fabric/processedMods
+
+#Ignore ssh keys
+ssh-key-2025-11-11.key
+ssh-key-2025-11-11.key.pub
